@@ -1,7 +1,7 @@
 # Data_Science_Projects
 A list of Data Science projects
 
-[**1.Predicting the Outcome of Cold-Calling:**](https://github.com/nneal1213/Data_Science_Projects/tree/master/01_Cold_Calling):A gradient-boosted tree model was trained upon customer attributes to predict the likelihood of selling insurance.  The model generated a 150% improvement in sales.  
+[**1. Predicting the Outcome of Cold-Calling:**](https://github.com/nneal1213/Data_Science_Projects/tree/master/01_Cold_Calling):A gradient-boosted tree model was trained upon customer attributes to predict the likelihood of selling insurance.  The model generated a 150% improvement in sales.  
 
 [**2. Building a Job Recommendation Engine:**](https://github.com/nneal1213/Data_Science_Projects/tree/master/02_Job_Recommendation_Engine):Through the use of Natural Language Processing and Principal Component Analysis, I had developed an engine to match job postings to the resumes of job-seekers. 
  

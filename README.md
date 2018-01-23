@@ -12,3 +12,6 @@ A list of Data Science projects
 
 [**4. Creation of Web Scrapers for E-commerce Sites:**](https//github.com/nneal1213/Data_Science_Projects/tree/master/04_Scraping_Ecommerce_Sites):As part of contract work with Cherrypick.Ai, I had created 5 preliminary web-scrapers to retrieve information for various websites.  
 
+[**5. Prediction of User Purchase through Web Actions:**](https//github.com/nneal1213/Data_Science_Projects/tree/master/05_Purchase_Prediction_Web_Actions):Feature engineering was performed upon a dataset of web actions of various users to create predictive features.  The resulting model was able to predict and identify 5x more users willing to make a purchase.  
+
+

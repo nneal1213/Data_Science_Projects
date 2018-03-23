@@ -15,3 +15,4 @@ A list of Data Science projects
 [**5. Prediction of User Purchase through Web Actions:**](https://github.com/nneal1213/Data_Science_Projects/tree/master/05_Purchase_Prediction_Web_Actions) Feature engineering was performed upon a dataset of web actions of various users to create predictive features.  The resulting model was able to predict and identify 5x more users willing to make a purchase.  
 
 
+[**6. Predicting Yelp Ratings through Review Text:**](https://github.com/nneal1213/Data_Science_Projects/tree/master/06_Predicting_YelpRating_from_Text) As part of this project, I wanted to look to see if it's possible to use NLP to parse the words in order to predict the numberes of stars given by the review.  The dataset used is the Yelp Dataset: Round 11: https://www.yelp.com/dataset/challenge
